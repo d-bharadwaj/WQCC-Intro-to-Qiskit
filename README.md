@@ -1,2 +1,3 @@
 # WQCC-Intro-to-Qiskit
-Files used in the Qiskit 101 tutorial during the WQCC x IBM Qiskit Fall Fest
+Qiskit 101 tutorial -  WQCC x IBM Qiskit Fall Fest 2023 
+Tutorial led by Dhanvi Bharadwaj 
