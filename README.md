@@ -1,4 +1,10 @@
-![Event Poster](assets/wqcc_logo.png)
+<!-- ![Event Poster](assets/wqcc_logo.png)
+![Event Poster](assets/qiskit_fall_fest.png) -->
+
+<p align="center">
+  <img src="assets/wqcc_logo.png" width="300">
+<img src="assets/qiskit_fall_fest.png" width="250">
+</p>
 
 # ⚡WQCC-Intro-to-Qiskit⚡
 
